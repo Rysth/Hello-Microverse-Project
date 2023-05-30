@@ -82,6 +82,9 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
+cd folder git clone <Hello-Microverse-Project> code . (command to open
+on vscode)
+
 ### Install
 
 Install this project with:
@@ -136,21 +139,18 @@ make me a better proffessional.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+## ❓ FAQ <a name="faq"></a>
 
-- **[Question_1]**
+- **[How much time does this project took you to build it?]**
 
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
+  - [Around 1 hour to complete, because I didn't knew how to use
+    Linters.]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](LICENSE) licensed.
 
 _NOTE: we recommend using the
 [MIT license](https://choosealicense.com/licenses/mit/) - you can set

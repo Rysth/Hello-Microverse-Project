@@ -1,8 +1,4 @@
-## Copyright 2021, [John Palacios - Rysth]
-
-###### Please delete this line and the next one
-
-###### APP TYPE can be a webpage/website, a web app, a software and so on
+Copyright 2021, [John Palacios - Rysth]
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this [APP TYPE] and associated documentation files, to deal
