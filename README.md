@@ -16,6 +16,7 @@
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -27,9 +28,8 @@
 
 # 📖 [Hello_Microverse] <a name="about-project"></a>
 
-**[Hello_Microverse]** is a simple challenge where I as a student,
-need to achieve a list of requiriments in order to use the tools
-correctly in every project.
+**[Hello_Microverse]** is a simple challenge where I as a student, need to achieve a list of requiriments in order to
+use the tools correctly in every project.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -67,6 +67,12 @@ correctly in every project.
 
 To get a local copy up and running, follow these steps.
 
+### Setup
+
+Clone this repository to your desired folder:
+
+cd Hello-Microverse-Project git clone https://github.com/Rysth/Hello-Microverse-Project.git
+
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Rysth**
@@ -91,15 +97,13 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project feel free to watch it and take some features
-that will enhance your project aswell.
+If you like this project feel free to watch it and take some features that will enhance your project aswell.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank to the Microverse Team for reviewing my code and
-make me a better proffessional.
+I would like to thank to the Microverse Team for reviewing my code and make me a better proffessional.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
