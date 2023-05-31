@@ -71,8 +71,10 @@ To get a local copy up and running, follow these steps.
 
 Clone this repository to your desired folder:
 
-- cd Hello-Microverse-Project
-- git clone https://github.com/Rysth/Hello-Microverse-Project.git
+```
+cd Hello-Microverse-Project
+git clone https://github.com/Rysth/Hello-Microverse-Project.git
+```
 
 ## 👥 Authors <a name="authors"></a>
 
