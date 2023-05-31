@@ -21,7 +21,6 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -104,18 +103,9 @@ make me a better proffessional.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ❓ FAQ <a name="faq"></a>
-
-- **[How much time does this project took you to build it?]**
-
-  - [Around 1 hour to complete, because I didn't knew how to use
-    Linters.]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](LICENSE) licensed.
+This project is [MIT](MIT) licensed.
 
 _NOTE: we recommend using the
 [MIT license](https://choosealicense.com/licenses/mit/) - you can set
