@@ -27,7 +27,7 @@
 
 # 📖 [Hello_Microverse] <a name="about-project"></a>
 
-**[your_project__name]** is a simple challenge where I as a student,
+**[Hello_Microverse]** is a simple challenge where I as a student,
 need to achieve a list of requiriments in order to use the tools
 correctly in every project.
 
@@ -59,7 +59,7 @@ correctly in every project.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](https://raw.githack.com/Rysth/Hello-Microverse-Project/new_feature/index.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -105,14 +105,6 @@ make me a better proffessional.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](MIT) licensed.
-
-_NOTE: we recommend using the
-[MIT license](https://choosealicense.com/licenses/mit/) - you can set
-it up quickly by
-[using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
-You can also use
-[any other license](https://choosealicense.com/licenses/) if you
-wish._
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
